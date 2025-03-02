@@ -1,0 +1,27 @@
+body  {
+    font-family: sans-serif;
+    background-color:lightblue;
+}
+
+h1 {
+    color:cadetblue;
+    text-align: center;
+}
+
+
+section{
+    text-align: center;
+    padding-left: 35%
+}
+
+div  {
+    border: 1px solid blue;
+    background-color:lightgray;
+    width:50%;
+}
+
+a {
+    margin: 3px;
+    text-decoration:none;
+    color:aquamarine
+}
